@@ -14,7 +14,7 @@
 
 ## 🧩 About This Project
 
-Engineer with a background in **industrial-scale systems and end-to-end ownership**, now focused on building **modern, human-centered software systems**.
+Engineer with a background in **complex system development and project leadership**, now focused on building **human–AI collaborative systems**.
 
 Driven by the belief that **the most powerful systems emerge from collaboration between human intuition and complex technology** — not replacement.
 
