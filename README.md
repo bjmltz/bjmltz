@@ -1,14 +1,14 @@
 # Benjamin Lotz
 
-### Software Engineer | Systems & Human–Technology Interaction
+### Software Engineer | Systems & Human–AI Collaboration
 
 ---
 
 # 👨‍💻 Human README.md
 
-> `version: 1.2.0-public`
-> `status: actively building at the intersection of systems & human interaction`
-> `focus: engineering meaningful human–technology collaboration`
+> `version: 1.2.1-public`
+> `status: building systems at the intersection of humans and intelligent technology`
+> `focus: engineering meaningful human–AI collaboration`
 
 ---
 
@@ -16,7 +16,7 @@
 
 Engineer with a background in **complex system development and project leadership**, now focused on building **human–AI collaborative systems**.
 
-Driven by the belief that **the most powerful systems emerge from collaboration between human intuition and complex technology** — not replacement.
+Driven by the belief that **the most powerful systems emerge from structured collaboration between human intuition and intelligent technology** — not replacement.
 
 ---
 
@@ -25,7 +25,7 @@ Driven by the belief that **the most powerful systems emerge from collaboration 
 * 🧠 **First-principles problem solving in complex domains**
 * ⚙️ **End-to-end system ownership** (concept → architecture → production)
 * 🔍 **Strong analytical thinking under ambiguity**
-* 🤝 **Bridging human needs and technical systems**
+* 🤝 **Designing systems for human–AI collaboration and interaction**
 * 🚀 **High initiative & execution in fast-moving environments**
 * 🔄 **Continuous learning with focus on AI & system design**
 
@@ -33,7 +33,7 @@ Driven by the belief that **the most powerful systems emerge from collaboration 
 
 ## 🛠 Tech Stack
 
-```yaml
+```yaml id="d9yzrm"
 Languages:
   - TypeScript / JavaScript
   - Python  
@@ -50,7 +50,7 @@ Backend:
 Concepts:
   - System design
   - Real-time architectures
-  - Human–system interaction
+  - Human–AI collaboration
   - Encryption & privacy
   - State machines
 ```
@@ -59,8 +59,8 @@ Concepts:
 
 ## 🏗 Architecture Overview
 
-```text
-Human–System Collaboration Model
+```text id="f7g2z1"
+Human–AI Collaboration Model
 
 Input:
   Ambiguous problem / human need
@@ -68,10 +68,11 @@ Input:
 Processing:
   → First-principles decomposition
   → System design & architecture
-  → Iteration via feedback loops
+  → Iteration via human feedback loops
 
 Output:
   → Scalable, understandable, production-ready systems
+  → Systems enabling effective collaboration between humans and technology
 ```
 
 ---
@@ -84,6 +85,8 @@ Output:
 * Responsibility for **technical + economic outcomes**
 * Work in **complex, constraint-driven environments**
 
+→ Experience in systems where **human decision-making and automated systems must align and collaborate reliably**
+
 ---
 
 ### 📱 Personal App: *Flipocus*
@@ -95,7 +98,7 @@ Output:
   * End-to-end encryption
   * Hybrid backend architecture
 
-→ Focus: **real-time human interaction through technology**
+→ Focus: **real-time human interaction and collaboration through technology**, emphasizing responsiveness, feedback, and system behavior
 
 ---
 
@@ -127,13 +130,13 @@ A detailed version of this profile (including contact information) is available 
 ## 📈 Roadmap
 
 * AI-integrated systems
-* Human–AI interaction
+* Human–AI collaboration
 * Scalable backend architectures
 
 ---
 
 ## 🤝 Contribution
 
-Looking to contribute to **teams building meaningful, high-impact systems at the intersection of humans and technology**.
+Looking to contribute to **teams building meaningful, high-impact systems centered on human–AI collaboration**.
 
 ---
