@@ -6,7 +6,7 @@
 
 # 👨‍💻 Human README.md
 
-> `version: 1.2.1-public`
+> `version: 1.3.0-public`
 > `status: building systems at the intersection of humans and intelligent technology`
 > `focus: engineering meaningful human–AI collaboration`
 
@@ -14,7 +14,7 @@
 
 ## 🧩 About This Project
 
-Engineer with a background in **complex system development and project leadership**, now focused on building **human–AI collaborative systems**.
+Engineer with a background in **complex system development, technical leadership, and economic ownership**, now focused on building **human–AI collaborative systems**.
 
 Driven by the belief that **the most powerful systems emerge from structured collaboration between human intuition and intelligent technology** — not replacement.
 
@@ -23,17 +23,17 @@ Driven by the belief that **the most powerful systems emerge from structured col
 ## ✨ Features
 
 * 🧠 **First-principles problem solving in complex domains**
-* ⚙️ **End-to-end system ownership** (concept → architecture → production)
+* ⚙️ **End-to-end ownership (concept → architecture → production)**
 * 🔍 **Strong analytical thinking under ambiguity**
 * 🤝 **Designing systems for human–AI collaboration and interaction**
-* 🚀 **High initiative & execution in fast-moving environments**
+* 🚀 **Leading cross-functional engineering efforts**
 * 🔄 **Continuous learning with focus on AI & system design**
 
 ---
 
 ## 🛠 Tech Stack
 
-```yaml id="d9yzrm"
+```yaml id="8nq1iy"
 Languages:
   - TypeScript / JavaScript
   - Python  
@@ -51,6 +51,7 @@ Concepts:
   - System design
   - Real-time architectures
   - Human–AI collaboration
+  - Simulation & integration systems
   - Encryption & privacy
   - State machines
 ```
@@ -59,7 +60,7 @@ Concepts:
 
 ## 🏗 Architecture Overview
 
-```text id="f7g2z1"
+```text id="f7kg8d"
 Human–AI Collaboration Model
 
 Input:
@@ -81,9 +82,9 @@ Output:
 
 ### 🏢 Industrial Engineering
 
-* Experience in **technical development & project management**
-* Responsibility for **technical + economic outcomes**
-* Work in **complex, constraint-driven environments**
+* Experience in **complex system development and project leadership**
+* Responsibility for **technical and economic outcomes**
+* Work in **constraint-driven, real-world environments**
 
 → Experience in systems where **human decision-making and automated systems must align and collaborate reliably**
 
@@ -91,7 +92,7 @@ Output:
 
 ### 📱 Personal App: *Flipocus*
 
-* Real-time multiplayer + encrypted messaging app
+* Real-time distributed system with **multiplayer synchronization and encrypted communication**
 * Designed:
 
   * Host-authoritative multiplayer system
