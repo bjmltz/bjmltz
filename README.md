@@ -6,7 +6,7 @@
 
 # 👨‍💻 Human README.md
 
-> `version: 1.3.0-public`
+> `version: 1.3.1-public`
 > `status: building systems at the intersection of humans and intelligent technology`
 > `focus: engineering meaningful human–AI collaboration`
 
@@ -95,7 +95,7 @@ Output:
 * Real-time distributed system with **multiplayer synchronization and encrypted communication**
 * Designed:
 
-  * Host-authoritative multiplayer system
+  * Server-authoritative multiplayer system
   * End-to-end encryption
   * Hybrid backend architecture
 
