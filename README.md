@@ -6,7 +6,7 @@
 
 # 👨‍💻 Human README.md
 
-> `version: 1.3.1-public`
+> `version: 1.3.2-public`
 > `status: building systems at the intersection of humans and intelligent technology`
 > `focus: engineering meaningful human–AI collaboration`
 
@@ -16,7 +16,7 @@
 
 Engineer with a background in **complex system development, technical leadership, and economic ownership**, now focused on building **human–AI collaborative systems**.
 
-Driven by the belief that **the most powerful systems emerge from structured collaboration between human intuition and intelligent technology** — not replacement.
+Driven by the belief that **the most powerful systems emerge from structured collaboration between human intuition and intelligent technology**.
 
 ---
 
