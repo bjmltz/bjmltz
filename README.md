@@ -197,7 +197,7 @@ It will show:
 
 - GitHub: https://github.com/bjmltz
 - Flipocus: independent private product
-- Demo video: coming soon
+- Demo video: https://youtu.be/lsAY2do89kM
 
 ## 🤝 What I’m Looking For
 
