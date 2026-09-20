@@ -196,7 +196,7 @@ It will show:
 ## 🔗 Entry Points
 
 - GitHub: https://github.com/bjmltz
-- Main project: Flipocus
+- Flipocus: independent private product
 - Demo video: coming soon
 
 ## 🤝 What I’m Looking For
