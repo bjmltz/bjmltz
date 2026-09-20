@@ -1,143 +1,213 @@
 # Benjamin Lotz
 
-### Software Engineer | Systems & Human–AI Collaboration
-
----
+### Technical Product & Systems Leader | Reliability, Integration & AI-Assisted Engineering
 
 # 👨‍💻 Human README.md
 
-> `version: 1.3.2-public`
-> `status: building systems at the intersection of humans and intelligent technology`
-> `focus: engineering meaningful human–AI collaboration`
+> `status: building systems at the intersection of reliability, product thinking, and AI-assisted engineering`  
+> `focus: technical products · developer/test infrastructure · human–AI collaboration`
 
----
+## 🧩 About Me
 
-## 🧩 About This Project
+Technical product and systems leader with 15+ years of experience building and integrating complex technical systems, leading interdisciplinary projects, and taking end-to-end technical and economic responsibility.
 
-Engineer with a background in **complex system development, technical leadership, and economic ownership**, now focused on building **human–AI collaborative systems**.
+My professional background is rooted in **Software-in-the-Loop (SiL), Hardware-in-the-Loop (HiL), system integration, automated validation, diagnostics, and technical platform development**.
 
-Driven by the belief that **the most powerful systems emerge from structured collaboration between human intuition and intelligent technology**.
+Today I also build **Flipocus**, an independent cross-platform product, using AI coding agents extensively for implementation while retaining ownership of product direction, architecture constraints, testing, validation, and technical decision-making.
 
----
+I am especially interested in systems where complex software needs to become observable and testable, developers need reliable feedback loops, and AI agents accelerate implementation without replacing human judgment.
 
-## ✨ Features
+## ✨ What I Bring
 
-* 🧠 **First-principles problem solving in complex domains**
-* ⚙️ **End-to-end ownership (concept → architecture → production)**
-* 🔍 **Strong analytical thinking under ambiguity**
-* 🤝 **Designing systems for human–AI collaboration and interaction**
-* 🚀 **Leading cross-functional engineering efforts**
-* 🔄 **Continuous learning with focus on AI & system design**
+- Zero-to-one technical product leadership
+- Reliability, integration, and test infrastructure
+- Evidence-driven problem solving and debugging
+- Customer/stakeholder discovery and cross-functional leadership
+- Distributed-team collaboration across internal teams, suppliers, and partners
+- AI-assisted prototyping and implementation
+- Human ownership of goals, constraints, validation, and product decisions
 
----
+## 🛠 Skills & Technical Context
 
-## 🛠 Tech Stack
+```yaml
+Product & Leadership:
+  - Product vision and roadmap shaping
+  - Customer discovery and problem framing
+  - MVP / PoC definition
+  - Prioritization and stakeholder alignment
+  - Distributed-team leadership
 
-```yaml id="8nq1iy"
-Languages:
-  - TypeScript / JavaScript
-  - Python  
+Reliability & Integration:
+  - Software-in-the-Loop (SiL)
+  - Hardware-in-the-Loop (HiL)
+  - Automated validation
+  - CI quality gates
+  - Diagnostics and observability concepts
+  - Complex system integration
 
-Frontend:
-  - React
-  - React Native (Expo)
+Software Background:
+  - C / C++
+  - C#
+  - Python
+  - T-SQL
+  - MATLAB / Simulink
 
-Backend:
+Current Product Stack:
+  - React Native / Expo
+  - TypeScript
   - Node.js
-  - Firebase (Firestore, Realtime DB)
-  - Real-time systems
+  - WebSockets
+  - Firebase
+  - SQLite
 
-Concepts:
-  - System design
-  - Real-time architectures
-  - Human–AI collaboration
-  - Simulation & integration systems
-  - Encryption & privacy
-  - State machines
+AI-Assisted Engineering:
+  - GitHub Copilot
+  - Codex-style agent workflows
+  - Diagnosis-first audits
+  - Structured runtime evidence
+  - Bounded implementation
+  - Human validation
 ```
 
----
+> Current product-stack work is primarily AI-assisted at implementation level, with system-level ownership and validation remaining human-led.
 
-## 🏗 Architecture Overview
-
-```text id="f7kg8d"
-Human–AI Collaboration Model
-
-Input:
-  Ambiguous problem / human need
-
-Processing:
-  → First-principles decomposition
-  → System design & architecture
-  → Iteration via human feedback loops
-
-Output:
-  → Scalable, understandable, production-ready systems
-  → Systems enabling effective collaboration between humans and technology
-```
-
----
-
-## 📦 Project Experience
+## 🏗 Current Work
 
 ### 🏢 Industrial Engineering
 
-* Experience in **complex system development and project leadership**
-* Responsibility for **technical and economic outcomes**
-* Work in **constraint-driven, real-world environments**
+My professional work centers on technical platforms and integration infrastructure for complex software-intensive systems.
 
-→ Experience in systems where **human decision-making and automated systems must align and collaborate reliably**
+Examples include zero-to-one SiL platform development, automated validation and quality gates, developer enablement and onboarding, architecture and integration decisions, reliability/debugging infrastructure, and international collaboration across internal teams, suppliers, and partners.
 
----
+A recurring theme is:
 
-### 📱 Personal App: *Flipocus*
+> **make complex systems testable, observable, and usable before failures reach downstream users or expensive physical test stages.**
 
-* Real-time distributed system with **multiplayer synchronization and encrypted communication**
-* Designed:
+### 📱 Flipocus — Independent Product
 
-  * Server-authoritative multiplayer system
-  * End-to-end encryption
-  * Hybrid backend architecture
+**React Native · Expo · TypeScript · Node.js · WebSockets · Firebase · SQLite**
 
-→ Focus: **real-time human interaction and collaboration through technology**, emphasizing responsiveness, feedback, and system behavior
+Flipocus is a cross-platform social/game application with:
 
----
+- server-authoritative Catpong multiplayer,
+- encrypted messaging,
+- real-time communication,
+- structured runtime observability,
+- AI-assisted engineering workflows.
 
-## 🎤 Live Demo
+The project is also my practical environment for exploring how AI agents can support software development safely when architecture, runtime state, and validation remain human-governed.
 
-I’m happy to walk through my app (*Flipocus*) and its architecture in a short session.
+## 🧪 Flipocus × Checkly Reliability Demo
 
-* Product walkthrough
-* Architecture deep dive
-* System design discussion
+I am currently using **Checkly** on a bounded, development-only monitoring path for Flipocus.
 
-→ Available upon request
+The demo includes:
 
----
+- a local HTTP health endpoint,
+- a read-only multiplayer scoreboard,
+- **Checkly Monitoring as Code**,
+- an API health check with JSON assertions,
+- a **Playwright browser check**,
+- a Docker-hosted **Checkly Private Location**,
+- deliberate HTTP `503` fault injection,
+- observed failure, retry, and recovery behavior.
+
+The goal is to demonstrate one complete reliability loop:
+
+```text
+system
+  → synthetic check
+  → assertion
+  → controlled failure
+  → evidence
+  → recovery
+```
+
+The monitoring path is development-only and does not participate in multiplayer authority.
+
+## 🤖 Human–AI Engineering Model
+
+```text
+Goal / Product Need
+        ↓
+Human defines:
+  - expected outcome
+  - architecture boundaries
+  - constraints
+  - validation criteria
+        ↓
+AI-assisted:
+  - research
+  - audit
+  - implementation
+  - technical exploration
+        ↓
+Runtime evidence / tests
+        ↓
+Human validates behavior
+        ↓
+Next bounded decision
+```
+
+> **AI as leverage, not authority.**
+
+## 📦 Selected Experience Themes
+
+### Technical Product / Platform Leadership
+
+- Built technical platforms from ambiguous starting points
+- Defined architecture, MVP/PoC direction, roadmap, and team setup
+- Balanced long-term infrastructure investment with short-term user/stakeholder value
+- Established onboarding patterns, documentation, and cross-team collaboration
+
+### Reliability & Developer Infrastructure
+
+- SiL / HiL test environments
+- Automated validation and quality gates
+- Integration and diagnostic infrastructure
+- Runtime evidence and observability
+- Complex distributed-system debugging
+
+### Customer Discovery
+
+I prefer to understand the problem behind a request before accepting the requested solution.
+
+Examples include reframing broad quality-review requests into reusable technical contracts, automated extraction workflows, and repeatable quality gates.
+
+## 🚀 Entrepreneurial Background
+
+Co-founded **C~energy (“C wave energy”)**, a renewable-energy venture focused on low-maintenance wave-energy generation.
+
+Work included prototype development, production-cost modelling, investor outreach, research-institution collaboration, and patent filing.
+
+## 🎤 Demo / Walkthrough
+
+A short Flipocus + Checkly demo is being prepared.
+
+It will show:
+
+- live Flipocus multiplayer,
+- read-only browser scoreboard,
+- Checkly API/browser monitoring,
+- controlled fault injection,
+- Checkly failure detection,
+- recovery verification.
 
 ## 🔗 Entry Points
 
-* GitHub: https://github.com/bjmltz
-* Project: Flipocus (demo available on request)
+- GitHub: https://github.com/bjmltz
+- Main project: Flipocus
+- Demo video: coming soon
 
----
+## 🤝 What I’m Looking For
 
-## 🔐 Extended Profile
+Roles and teams working at the intersection of:
 
-A detailed version of this profile (including contact information) is available on request.
+- technical product management,
+- developer tools,
+- reliability and observability,
+- platform engineering,
+- AI-assisted software development,
+- human-controlled intelligent systems.
 
----
-
-## 📈 Roadmap
-
-* AI-integrated systems
-* Human–AI collaboration
-* Scalable backend architectures
-
----
-
-## 🤝 Contribution
-
-Looking to contribute to **teams building meaningful, high-impact systems centered on human–AI collaboration**.
-
----
+I am especially interested in environments where technical depth, product judgment, customer understanding, and hands-on experimentation are valued together.
