@@ -97,34 +97,6 @@ Flipocus is a cross-platform social/game application with:
 
 The project is also my practical environment for exploring how AI agents can support software development safely when architecture, runtime state, and validation remain human-governed.
 
-## 🧪 Flipocus × Checkly Reliability Demo
-
-I am currently using **Checkly** on a bounded, development-only monitoring path for Flipocus.
-
-The demo includes:
-
-- a local HTTP health endpoint,
-- a read-only multiplayer scoreboard,
-- **Checkly Monitoring as Code**,
-- an API health check with JSON assertions,
-- a **Playwright browser check**,
-- a Docker-hosted **Checkly Private Location**,
-- deliberate HTTP `503` fault injection,
-- observed failure, retry, and recovery behavior.
-
-The goal is to demonstrate one complete reliability loop:
-
-```text
-system
-  → synthetic check
-  → assertion
-  → controlled failure
-  → evidence
-  → recovery
-```
-
-The monitoring path is development-only and does not participate in multiplayer authority.
-
 ## 🤖 Human–AI Engineering Model
 
 ```text
@@ -179,19 +151,6 @@ Examples include reframing broad quality-review requests into reusable technical
 Co-founded **C~energy (“C wave energy”)**, a renewable-energy venture focused on low-maintenance wave-energy generation.
 
 Work included prototype development, production-cost modelling, investor outreach, research-institution collaboration, and patent filing.
-
-## 🎤 Demo / Walkthrough
-
-A short Flipocus + Checkly demo is being prepared.
-
-It will show:
-
-- live Flipocus multiplayer,
-- read-only browser scoreboard,
-- Checkly API/browser monitoring,
-- controlled fault injection,
-- Checkly failure detection,
-- recovery verification.
 
 ## 🔗 Entry Points
 
